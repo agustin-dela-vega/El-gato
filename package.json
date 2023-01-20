@@ -1,0 +1,12 @@
+{
+  "name": "bootcamp_react_2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Agustín De La Vega <agustin.delavega02@gmail.com>",
+  "license": "MIT"
+}
